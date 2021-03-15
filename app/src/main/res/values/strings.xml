@@ -1,0 +1,9 @@
+<resources>
+    <string name="cheesy_app_name">Cheesy</string>
+    <string name="cheesy_hint_username">Username</string>
+    <string name="cheesy_hint_password">Password</string>
+    <string name="cheesy_button_next">Next</string>
+    <string name="cheesy_button_cancel">Cancel</string>
+    <string name="cheesy_error_password">Password must contain at least 8 characters.</string>
+
+</resources>
